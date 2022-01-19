@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "7967ed83-61b6-4ce8-b3d5-e2c6a6558b63": {
+      "ProjectGuid": "7967ed83-61b6-4ce8-b3d5-e2c6a6558b63",
+      "DisplayName": "grade",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

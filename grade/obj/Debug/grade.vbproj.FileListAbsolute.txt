@@ -1,0 +1,13 @@
+D:\Users\KNIGHT55\Source\Repos\gradeVb\grade\bin\Debug\grade.exe.config
+D:\Users\KNIGHT55\Source\Repos\gradeVb\grade\bin\Debug\grade.exe
+D:\Users\KNIGHT55\Source\Repos\gradeVb\grade\bin\Debug\grade.pdb
+D:\Users\KNIGHT55\Source\Repos\gradeVb\grade\bin\Debug\grade.xml
+D:\Users\KNIGHT55\Source\Repos\gradeVb\grade\obj\Debug\grade.vbproj.AssemblyReference.cache
+D:\Users\KNIGHT55\Source\Repos\gradeVb\grade\obj\Debug\grade.vbproj.SuggestedBindingRedirects.cache
+D:\Users\KNIGHT55\Source\Repos\gradeVb\grade\obj\Debug\grade.Form1.resources
+D:\Users\KNIGHT55\Source\Repos\gradeVb\grade\obj\Debug\grade.Resources.resources
+D:\Users\KNIGHT55\Source\Repos\gradeVb\grade\obj\Debug\grade.vbproj.GenerateResource.cache
+D:\Users\KNIGHT55\Source\Repos\gradeVb\grade\obj\Debug\grade.vbproj.CoreCompileInputs.cache
+D:\Users\KNIGHT55\Source\Repos\gradeVb\grade\obj\Debug\grade.exe
+D:\Users\KNIGHT55\Source\Repos\gradeVb\grade\obj\Debug\grade.xml
+D:\Users\KNIGHT55\Source\Repos\gradeVb\grade\obj\Debug\grade.pdb
